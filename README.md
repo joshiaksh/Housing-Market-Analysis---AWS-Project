@@ -1,5 +1,14 @@
 **Project Objective** - Create a data pipeline and analysis platform for processing, storing, and analyzing real estate data from various sources. The platform will enable users to gain insights into housing market trends, pricing dynamics, and property characteristics.
 
+**Goals** - 
+* Develop a data model
+* Conduct exploratory data analysis (EDA) in Python
+* Upload files to Amazon S3
+* Execute Extract, Transform, Load (ETL) processes using Amazon Glue
+* Store the resulting files on Amazon S3
+* Analyze data in Amazon Athena to identify key performance metrics
+* Utilize Amazon QuickSight to visualize these metrics
+
 **AWS Services used** -
 1. **Amazon S3**: A scalable object storage service designed to store and retrieve any amount of data from anywhere on the web
 2. **AWS Glue**: A fully managed extract, transform, and load (ETL) service that makes it easy to prepare and load data for analytics
